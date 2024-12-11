@@ -53,4 +53,6 @@ extra:
       link: https://www.youtube.com/@Jopcopin
     - icon: simple/linkedin
       link: https://www.linkedin.com/in/joan-palacios-caballero/
+    - icon: simple/github
+      link: https://github.com/Toroi01/mkdocs-material-tutorial
 copyright: Copyright &copy; 2024 Joan Palacios Caballero

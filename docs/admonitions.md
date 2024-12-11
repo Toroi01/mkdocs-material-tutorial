@@ -36,7 +36,6 @@
 
 ## Collapsible Callout
 
-### Collapsible Info
 ### Info
 ??? info "Information"
 
