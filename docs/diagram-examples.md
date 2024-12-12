@@ -25,3 +25,19 @@ sequenceDiagram
   Terminal->>Database: Request customer data
   Database-->>Terminal: Customer data
 ```
+
+## Jess
+
+```mermaid
+graph TD
+  A[Me invita a su casa] --> B[Me invita a su cama]
+  B --> C[+18]
+  C --> D[Me hace el desayuno]
+  D --> E[Netflix and chill]
+  E --> F[+18]
+  F --> G[Pizza rica]
+  G --> E
+  E --> H[Duchita]
+  H --> I[Besito de despedida]
+  I --> A
+```
