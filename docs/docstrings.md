@@ -1,0 +1,3 @@
+# Reference
+
+::: dupy.greetings.Greeter

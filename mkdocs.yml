@@ -55,4 +55,7 @@ extra:
       link: https://www.linkedin.com/in/joan-palacios-caballero/
     - icon: simple/github
       link: https://github.com/Toroi01/mkdocs-material-tutorial
+plugins:
+- search
+- mkdocstrings
 copyright: Copyright &copy; 2024 Joan Palacios Caballero
