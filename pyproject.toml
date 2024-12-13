@@ -1,7 +1,7 @@
 [project]
 name = "mkdocu"
 version = "0.1.0"
-description = "Add your description here"
+description = "This is a sample repository created to explore and get familiar with MkDocs Material."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
